@@ -1,0 +1,2 @@
+# lingua
+Textos sobre Linguística.
